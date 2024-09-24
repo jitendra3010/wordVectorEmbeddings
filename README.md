@@ -38,6 +38,6 @@ For those unfamiliar with eigenvalues and SVD, a beginner-friendly introduction 
 <img width="861" alt="image" src="https://github.com/user-attachments/assets/ccb318e1-1ec8-4084-b334-166fb2018138">
 
 
-GloVe plot analysis
+### GloVe plot analysis<br>
 <img width="869" alt="image" src="https://github.com/user-attachments/assets/792c38cd-12e6-4b70-b0ae-46235bbbb595">
 
